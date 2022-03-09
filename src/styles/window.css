@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.view {
+    border: none;
+    text-align: center;
+    min-width: 18vw;
+    min-height: 5vw;
+    border-radius: 10vw;
+    margin-right: 0.255vw;
+    box-shadow: 0 14px 18px 0 #a1a1a1, 0 17px 50px 0 #949393;
+    overflow: auto;
+}
